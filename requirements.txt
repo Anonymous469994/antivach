@@ -1,0 +1,4 @@
+telegram
+telebot
+requests
+pyTelegramBotAPI
